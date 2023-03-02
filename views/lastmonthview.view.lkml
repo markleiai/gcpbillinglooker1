@@ -2,7 +2,7 @@
 view: lastmonthview {
   # The sql_table_name parameter indicates the underlying database table
   # to be used for all fields in this view.
-  sql_table_name: `mlgcp1-347011.billing_dashboard_views.lastmonthview`
+  sql_table_name: `mlgcp2.billing_dashboard_views.lastmonthview`
     ;;
   # No primary key is defined for this view. In order to join this view in an Explore,
   # define primary_key: yes on a dimension that has no repeated values.
